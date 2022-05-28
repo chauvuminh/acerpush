@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/acerpush/static/css/main.ebac11bb.css",
+    "main.js": "/acerpush/static/js/main.65a2ee9d.js",
+    "index.html": "/acerpush/index.html",
+    "main.ebac11bb.css.map": "/acerpush/static/css/main.ebac11bb.css.map",
+    "main.65a2ee9d.js.map": "/acerpush/static/js/main.65a2ee9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebac11bb.css",
+    "static/js/main.65a2ee9d.js"
+  ]
+}
